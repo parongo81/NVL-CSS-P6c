@@ -1,0 +1,95 @@
+body{
+	height: 80%
+	background-color: #58D68D;
+
+}
+
+#principal{	
+	padding: 20px;
+	background-color: #EAFAF1;
+}
+
+h5{
+ 	text-align: center;
+ 	margin:0;
+ }
+
+ p{
+ 	font-size: 14px;
+ 	text-align: center;
+ 	margin: 0;
+ }
+
+
+#titulo{
+	color: #0B5345;
+	text-align: center;
+}
+
+img{
+	float: left;
+	margin: 10px  30px 10px 0px;
+}
+.lista{
+	float: left;
+	width: 450px;
+
+
+}
+
+.subtitulo{
+	color: #58D68D;	
+	margin-bottom: 0px;
+	width: 300px;
+	text-align: center;
+
+}
+
+ h3{
+ 	color: #58D68D;
+ 	text-align: left;
+ 	margin: 0;
+ }
+
+[data-cantidad]{
+ 	font-size: 12px;
+ 	margin: 0px 15px;
+ 	font-family: verdana;
+
+ }
+
+ [data-vegetal="planta"]{
+ 	background-color: #58D68D;
+ }
+ [data-cantidad$="0g"]{
+ 	background-color: #FFCDD2;
+ }
+ [data-especia^="pic"]{
+ 	background-color: #FFF59D
+ }
+ [data-vegetal*="ras"]{
+ 	background-color: #FFB74D;
+ }
+
+
+
+ .consejo{
+ 	background-color:#58D68D;
+ 	color:#0B5345;
+ 	width: 160px;
+ 	height: 160px;
+ 	padding: 20px;
+ 	border-radius: 50%;
+ 	float: right;
+ 	margin-right: 25px;
+
+ }
+ .preparacion h3{
+ 	margin: 0;
+ 	text-align-last: left;
+
+ }
+
+
+
+
